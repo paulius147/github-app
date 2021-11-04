@@ -9298,7 +9298,7 @@
   dependencies:
     "react-router" "6.0.0"
 
-"react-router@6.0.0":
+"react-router@^6.0.0", "react-router@6.0.0":
   "integrity" "sha512-FcTRCihYZvERMNbG54D9+Wkv2cj/OtoxNlA/87D7vxKYlmSmbF9J9XChI9Is44j/behEiOhbovgVZBhKQn+wgA=="
   "resolved" "https://registry.npmjs.org/react-router/-/react-router-6.0.0.tgz"
   "version" "6.0.0"
